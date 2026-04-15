@@ -1,4 +1,1 @@
-def greeting(name):
-    print("Hello,", name)
-
-greeting("World")
+print("これから'プログラミング'を学びます")
